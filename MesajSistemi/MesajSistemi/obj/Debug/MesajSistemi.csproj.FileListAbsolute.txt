@@ -1,0 +1,12 @@
+D:\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.exe.config
+D:\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.exe
+D:\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.pdb
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.AssemblyReference.cache
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.SuggestedBindingRedirects.cache
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.Form1.resources
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.Form2.resources
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.Properties.Resources.resources
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.GenerateResource.cache
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.CoreCompileInputs.cache
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.exe
+D:\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.pdb
